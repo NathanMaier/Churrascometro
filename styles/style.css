@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/modelo-de-logotipo-de-churrasco-com-detalhes_52683-66150.jpg?w=2000);
+    background-size: cover;
+}
+.container{
+    font-family:'Times New Roman', Times, serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgba(240, 248, 255, 0.429);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
+
+#resultado{
+    background-color: rgba(240, 248, 255, 0.804);
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+    box-sizing: border-box;
+}
